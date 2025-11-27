@@ -1,0 +1,5 @@
+SeverTest는 포톤 서버 연결 태스트용
+DemoTest는 게임 데모의 기능 구현및 메서드 실험용
+
+DemoTest의 Game, App, Net, UI는 각각
+Game: 게임의 기능을 정리한다 App, Net, UI의 기능을 규합, 연결하여 게임의 현실적인 로직을 작동시킨다.

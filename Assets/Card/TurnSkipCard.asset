@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f74684a9722feae4bb470fcb0b674188, type: 3}
+  m_Name: TurnSkipCard
+  m_EditorClassIdentifier: 
+  cardName: TurnSkipCard
+  description: "\uC9C0\uC815\uD55C \uC0C1\uB300\uB294 \uB2E4\uC74C \uD134\uC744 \uAC74\uB108\uB701\uB2C8\uB2E4."
+  cardFaceMaterial: {fileID: 2100000, guid: 5b47f9ad96b0408449ded3ab6887c7e2, type: 2}
+  cardLogicPrefab: {fileID: 31162199319906651, guid: a7b0d01c43caa5a479f137792a4f3ac1,
+    type: 3}
