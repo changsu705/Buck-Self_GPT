@@ -1,2 +1,4 @@
 - SeverMatchScene 생성 및 환경 구성 완료
 - SeverMatchScene에 NetGameBootstrap 추가로 PUN 접속 및 룸 입장 부트스트랩 구성
+- BotMatchScene에서 사용 중인 플레이어 리그 프리팹 `Assets/Folder_Dev/0J/Prefab/player.prefab`를 복사하여 `Assets/Folder_Dev/Changsu_Seo#RealSEVER/Prefabs/SEVER_LobbyPlayerRig.prefab` 생성
+- SeverDemmoLoomdd에서 쓰이는 시작 총 프리팹 `Assets/Demmo/Prefab/Gun.prefab`을 복사하여 `Assets/Folder_Dev/Changsu_Seo#RealSEVER/Prefabs/SEVER_LobbyStartGun.prefab` 생성
