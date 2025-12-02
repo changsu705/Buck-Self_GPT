@@ -1,1 +1,2 @@
 - SeverMatchScene 생성 및 환경 구성 완료
+- SeverMatchScene에 NetGameBootstrap 추가로 PUN 접속 및 룸 입장 부트스트랩 구성
