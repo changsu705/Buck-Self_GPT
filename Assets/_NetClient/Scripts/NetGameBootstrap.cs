@@ -35,16 +35,6 @@ public class NetGameBootstrap : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         Debug.Log("[NetGameBootstrap] Joined room in SeverMatchScene");
-
-        var spawner = FindObjectOfType<NetPlayerSpawner>();
-        if (spawner != null)
-        {
-            spawner.SpawnLocalPlayer();
-        }
-        else
-        {
-            Debug.LogWarning("[NetGameBootstrap] NetPlayerSpawner not found in the scene.");
-        }
     }
 
     public override void OnDisconnected(DisconnectCause cause)
