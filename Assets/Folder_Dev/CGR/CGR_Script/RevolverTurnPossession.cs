@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using Cinemachine;
-
+using Buckshot.Contracts;
 /// <summary>
 /// [총괄 매니저] 리볼버의 이동, 조준, 발사, 사운드, 턴 관리, 애니메이션 제어 등 
 /// 게임 내 모든 물리적 액션과 연출을 담당하는 핵심 스크립트입니다.
